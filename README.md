@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijaysingh1621
+- 👋 Hi, I’m Vijay Singh 
 - 👀 I’m interested in HTML CSS JAVASCRIPT 
 - 🌱 I’m currently learning JAVA with DSA
 - 💞️ I’m looking to collaborate on ...
