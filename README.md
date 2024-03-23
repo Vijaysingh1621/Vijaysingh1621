@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-singh-b25483288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-singh-b25483288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-singh-b25483288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw3fXl96TnsukCRnVamZeOZt&ust=1711302794252000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDzr-_5ioUDFQAAAAAdAAAAABAE" alt="https://www.linkedin.com/in/vijay-singh-b25483288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_vijay_singh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_vijay_singh._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vijaysingh1621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaysingh1621" height="30" width="40" /></a>
 </p>
