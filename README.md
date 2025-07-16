@@ -62,6 +62,17 @@ I'm deeply fascinated by the evolving space of **AI-enabled web applications**. 
 
 ---
 
+
+<h2 align="center">📈 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysingh1621&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vijaysingh1621&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
