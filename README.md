@@ -1,59 +1,84 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vijay+Singh!" />
-</h1>
+# Hey Everyone! I'm [Vijay Singh](https://github.com/Vijaysingh1621) 
+<br><br>
+<a href="https://www.linkedin.com/in/vijay-singh-b25483288/">
+  <img align="left" alt="Vijay's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Vijaysingh1621">
+  <img align="left" alt="Vijay's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
+<br><br>
+<br><br>
 
-<p align="center">
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+<a>
   <img src="https://komarev.com/ghpvc/?username=vijaysingh1621&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</a>
 
----
+## <p align="center"><h4 align="center"><samp> AI Systems Engineer ⚡ | Real-Time Distributed Architectures 📡 | Full Stack Developer </samp></h4></p>
 
-## 👨‍💻 About Me
+<div>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/>
+<br>
 
-I'm Vijay Singh, a dedicated and curious full stack developer who enjoys building clean, scalable, and user-centric web applications. I specialize in **frontend development** using React and Next.js, while also being comfortable across the full stack with **Node.js, Express, MongoDB**, and **MySQL**. My passion lies in merging UI elegance with backend logic to deliver seamless user experiences.
-
-### 🔍 Currently Exploring
-- **LangChain** for building intelligent, context-aware applications using LLMs
-- **AI agents** and their orchestration using tools like **LangGraph** and **Vector Stores**
-- Integrating **LLM APIs (OpenAI/Gemini)** into production-ready web applications
-- Real-world use cases like **no-code AI tools**, **dynamic knowledge retrieval**, and **chatbot-driven workflows**
-
-### 🧠 What Drives Me
-I'm deeply fascinated by the evolving space of **AI-enabled web applications**. Whether it's crafting interfaces or building logic that mimics human-like decision making, I enjoy bridging frontend development with cutting-edge AI tools.
-
----
-
-- 🌱 I’m currently learning **Next.js 15, React 19, and LangChain**
-- 💬 Ask me about **frontend architecture, RESTful APIs, authentication, and LLMs**
-- 📫 Reach out via: **itisvijaysingh@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex logic into simple, elegant code
-
----
-
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vijay-singh-b25483288" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/iam_vijay_singh._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vijaysingh1621" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,flask,c,java,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma" />
+- 👨‍🎓 <samp><b>B.Tech @ NSUT Delhi </b>
+- 🔭 <samp>Building low-latency AI systems, real-time pipelines & scalable backend architectures
+- ⚡ <samp>Specializing in **Agentic AI, RAG systems, and voice-based AI infra**
+- 💼 <samp>Open for **SDE / AI Intern Roles (2026)**
+- 💬 <samp>Ask me about **System Design, AI Infra, Backend Scaling**
+- 🤔 <samp>Currently diving deep into **Kafka, distributed systems, async architectures**
+- ⚡ <samp>Fun fact: I enjoy optimizing latency and building production-grade systems
 </div>
 
----
+##
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=js,ts,python,cpp,java,bash&perline=18)
+
+<h4><b><samp>DevOps</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=git,docker,jenkins,kubernetes,nginx,grafana,prometheus,googlecloud&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,react,nextjs&perline=18)
+
+<h4><b><samp>Backend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi,postman,rabbitmq&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mongodb,supabase,redis,firebase)
+
+<h4><b><samp>AI / GenAI</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=python)
+
+- LangChain  
+- Gemini API  
+- RAG Pipelines  
+- ChromaDB  
+- OCR + TTS Systems  
+
+
+
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu&perline=18)
+
+<h4><b><samp>IDEs</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=vscode,cursor,windsurf,trae,webstorm,pycharm&perline=18)
+
+
 
 <h2 align="center">🐍 Contributions Snake 🐍</h2>
 <div align="center">
@@ -83,12 +108,3 @@ I'm deeply fascinated by the evolving space of **AI-enabled web applications**. 
 
 ---
 
-<h3 align="center">💡 Featured Projects</h3>
-<p align="center">
-  🔗 <a href="https://mysocialify.vercel.app">Socialify</a> • 
-  <a href="https://socialcalc.vercel.app">SocialCalc</a> • 
-  <a href="https://kissanbazzar.vercel.app">KissanBazzar</a> • 
-  <a href="https://whisperai.vercel.app">WhisperAI</a>
-</p>
-
----
