@@ -21,13 +21,15 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/>
 <br>
 
-- 👨‍🎓 <samp><b>B.Tech @ NSUT Delhi </b>
-- 🔭 <samp>Building low-latency AI systems, real-time pipelines & scalable backend architectures
-- ⚡ <samp>Specializing in **Agentic AI, RAG systems, and voice-based AI infra**
-- 💼 <samp>Open for **SDE / AI Intern Roles (2026)**
-- 💬 <samp>Ask me about **System Design, AI Infra, Backend Scaling**
-- 🤔 <samp>Currently diving deep into **Kafka, distributed systems, async architectures**
-- ⚡ <samp>Fun fact: I enjoy optimizing latency and building production-grade systems
+* 👨‍🎓 <samp><b>B.Tech @ NSUT Delhi</b></samp>
+* ⚡ <samp><b>AI Systems Engineer & Forward Deployed Engineer</b> building and shipping production-grade AI systems and infrastructure
+* 🚀 <samp>Engineering <b>real-time AI infrastructure, voice AI systems, agentic workflows, and low-latency distributed services</b>
+* 🔧 <samp>Building <b>internal automation platforms, developer tooling, AI-powered workflows, and backend systems</b> from 0 → production
+* 📡 <samp>Working across <b>real-time communication, event-driven architectures, async processing, distributed systems, and AI orchestration</b>
+* 🧠 <samp>Specializing in <b>Agentic AI, RAG, real-time AI, voice interfaces, LLM systems, and AI infrastructure</b>
+* 🛠️ <samp>Focused on <b>production engineering</b> — reliability, scalability, observability, latency optimization, and shipping systems that operate at scale
+* 💬 <samp>Ask me about <b>AI Infrastructure, System Design, Distributed Systems, Backend Architecture, Real-Time Systems, and Agentic AI</b>
+
 </div>
 
 ##
